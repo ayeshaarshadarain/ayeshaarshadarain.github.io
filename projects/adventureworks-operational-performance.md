@@ -8,6 +8,14 @@
 
 ## Why I Did This Project
 
+## TL;DR
+
+Using SQL and Power BI, I analyzed how demand volatility, production bottlenecks,
+and quality issues interact at AdventureWorks. The analysis shows that revenue loss
+is driven by underproduction of high-demand items, long manufacturing cycle times,
+and quality-related scrap during peak demand periods.
+
+
 I worked on this project as part of my learning journey in Business Intelligence, with
 the goal of understanding how **sales demand, production performance, and quality issues**
 are connected in a real business scenario.
