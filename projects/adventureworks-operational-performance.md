@@ -138,7 +138,7 @@ forecasting and product mix decisions are critical.
 **Key insights:**
 
 - Although the average scrap rate looks low, the recurring spikes suggest periods of
-  quality instability, rework, and production stress—often during high-demand months.
+  quality instability, rework, and production stress; often during high-demand months.
 - The average cycle time of 13 days indicates relatively long lead times, which limits
   how quickly production can respond to seasonal changes in demand.
 - High production efficiency can be misleading, as it hides issues such as the
@@ -190,5 +190,4 @@ It involves:
 - Interpreting metrics in context rather than in isolation  
 
 Most importantly, it helped me understand how **operational constraints directly affect
-revenue**, and how BI can be used to uncover those relationships in a practical and
-actionable way.
+revenue**, and how BI can be used to uncover those relationships in a practical way.
