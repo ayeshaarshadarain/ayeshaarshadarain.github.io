@@ -131,6 +131,10 @@ forecasting and product mix decisions are critical.
 ---
 
 ## What I Learned from the Production & Quality Dashboard
+![Production & Quality Performance – AdventureWorks](../assets/images/adventureworks-production.png)
+
+*Figure 2. Production and quality dashboard highlighting scrap rate variability, manufacturing cycle time, and underproduction relative to safety stock.*
+
 
 **Key operational metrics:**
 - **Average scrap rate:** about **0.24%**
