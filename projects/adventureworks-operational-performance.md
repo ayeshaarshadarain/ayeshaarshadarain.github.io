@@ -103,6 +103,10 @@ performance together** without running into incorrect totals or confusing filter
 ---
 
 ## What I Learned from the Sales Dashboard
+![Sales Performance & Demand Trends – AdventureWorks](../assets/images/adventureworks-sales.png)
+
+*Figure 1. Sales performance dashboard showing revenue concentration in Bikes, seasonal demand patterns, and product-level differences between sales volume and revenue contribution.*
+
 
 **Key metrics observed:**
 - **Total sales:** approximately **$110M**
