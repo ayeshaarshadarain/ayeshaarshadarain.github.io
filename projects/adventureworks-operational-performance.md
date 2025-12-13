@@ -67,6 +67,10 @@ and logically consistent.
 ---
 
 ## Power BI Data Model
+![Power BI Data Model – AdventureWorks](../assets/images/adventureworks-model.png)
+
+*Figure 3. Star-schema data model connecting sales, production, purchasing, and shared dimensions.*
+
 
 Once the SQL views were imported, I built a **star-schema style data model** in Power BI.
 Designing the model correctly was one of the main learning goals of this project.
