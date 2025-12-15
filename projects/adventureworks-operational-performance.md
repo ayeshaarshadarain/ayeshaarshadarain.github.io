@@ -11,9 +11,10 @@
 ## TL;DR
 
 Using SQL and Power BI, I analyzed how demand volatility, production bottlenecks,
-and quality issues interact at AdventureWorks. The analysis shows that revenue loss
-is driven by underproduction of high-demand items, long manufacturing cycle times,
-and quality-related scrap during peak demand periods.
+and quality issues interact at AdventureWorks. TThe analysis suggests that revenue 
+loss is likely influenced by underproduction of high-demand items, long manufacturing 
+cycle times, and quality-related scrap during peak demand periods.
+
 
 
 I worked on this project as part of my learning journey in Business Intelligence, with
@@ -30,6 +31,28 @@ To approach this, I focused on two closely related areas:
 
 Looking at these together helped me move beyond “what the numbers say” and start thinking
 about *why* certain patterns appear.
+
+---
+
+## Dataset Context & Learning Approach
+
+This project uses the **AdventureWorks** dataset, a widely used sample database designed
+for learning and demonstration rather than for fully realistic enterprise analysis.
+While it reflects common sales, production, and purchasing structures, some values are
+generated or repeated, and certain operational relationships are simplified compared
+to real-world business systems.
+
+Because of these limitations, the dataset is **not suitable for making strong real-world
+causal claims**. I therefore treated it as a **controlled learning environment** to
+practice core Business Intelligence skills such as SQL-based data preparation,
+star-schema modeling, KPI design, and cross-functional analysis—without the added
+complexity of highly fragmented or incomplete production data.
+
+The goal of this project was **process-oriented rather than outcome-oriented**:
+to practice asking meaningful business questions, structuring data correctly, and
+interpreting metrics cautiously. Identifying where the dataset itself constrained
+analysis (for example, inventory representation) was part of the learning experience
+and informed decisions about which analyses to include or exclude.
 
 ---
 
@@ -211,3 +234,8 @@ It involves:
 
 Most importantly, it helped me understand how **operational constraints directly affect
 revenue**, and how BI can be used to uncover those relationships in a practical way.
+
+Beyond the technical outcomes, this project reinforced the importance of analytical
+judgment, knowing when data supports a conclusion and when it does not. Working with a
+sample dataset helped me focus on developing sound BI practices and thought processes,
+which I expect to further refine when working with more complex, real-world data.
